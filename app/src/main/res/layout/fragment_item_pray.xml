@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="test.kiswahili.english.agpeya.christian.me.agpeya.ItemPray_Fragment"
+    android:orientation="horizontal"
+    android:weightSum="2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/tvkis"
+        android:layout_weight="1"
+        android:textColor="#2e5894"
+        android:layout_marginRight="5dp"/>
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:id="@+id/linesparet"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tveng"
+        android:layout_weight="1"
+        android:textColor="#2e5894"
+        android:layout_marginLeft="5dp"/>
+
+</LinearLayout>

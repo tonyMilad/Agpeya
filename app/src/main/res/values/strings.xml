@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Agpeya Kiswahili</string>
+    <string name="app_settings">Mazingira  Setting</string>
+
+    <string name="splashTitle">KITABU CHA MAOMBI SABA YA KILA SIKU\nTHE BOOK OF THE DAILY SEVEN PRAYERS</string>
+
+    <string name="splashTitle2">KANISA LA KOPTIK ORTHODOX\nCOPTIC ORTHODOX CHURCH</string>
+
+    <array name="payerhours">
+
+        <item>† Asubuhi †\n† First Hour †</item>
+        <item>† Saa Tatu †\n† Third Hour †</item>
+        <item>† Saa Sita †\n† Sixth Hour †</item>
+        <item>† Saa Tisa †\n† Ninth Hour †</item>
+        <item>† Saa Kumi Na Moja †\n† Eleventh Hour †</item>
+        <item>† Saa Kumi Na Mbili †\n† Twelfth Hour †</item>
+        <item>† Usiku Wa Manane †\n† Midnight Prayer †</item>
+
+    </array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
